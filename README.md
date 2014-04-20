@@ -9,3 +9,5 @@ This is a quick script that parses messages from Twitch to an API with node.js. 
 * [MongoJS](https://github.com/mafintosh/mongojs)
 * [Express](https://github.com/visionmedia/express)
 * [Node IRC](https://github.com/martynsmith/node-irc)
+
+![Twitch Plays](http://i.imgur.com/8eLSsak.jpg "Twitch Plays")
