@@ -1,7 +1,7 @@
 Twitch-Plays
 ============
 
-This is a quick script that parses messages from Twitch to an API with node.js. Use as you wish.
+This is a quick script that parses messages from Twitch to an API with node.js. Use as you wish. I got the idea from the Twitch Plays channel. You can use the API for a bot for your channel or for viewers in your channel to have control over a game, a website, etc.
 
 ### Requirements
 
